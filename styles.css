@@ -5,6 +5,7 @@ body{
 }
 h1{
     color:blue;
+    border: 2px solid #800080;
 }
 img{
     border-radius: 50%;
