@@ -9,3 +9,13 @@ h1{
 img{
     border-radius: 50%;
 }
+#special{
+    color: #800080;
+    background-color: beige;
+}
+#special2{
+    color: #FF0000;
+}
+#special3{
+    color: #FFFF00;
+}
